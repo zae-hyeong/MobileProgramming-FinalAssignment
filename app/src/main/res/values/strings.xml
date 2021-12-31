@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DotLover</string>
+
+    <string name="go_back">뒤로가기</string>
+
+    <string name="new_canvus">새로 만들기</string>
+    <string name="view_collection">다른 그림 보러가기</string>
+
+    <string name="save_img">그림 저장하기</string>
+    <string name="tools_eraser">지우개</string>
+
+    <string name="menu_changeCanvus">캔버스 사이즈 변경</string>
+    <string name="menu_init">앱 초기화</string>
+</resources>
